@@ -5,6 +5,7 @@ on-arrival: fundraising_timer = 6; month_actions += 1
 frequency: 300
 is-card: true
 card-image: img/IlariaBite2.png
+face-image: img/IlariaBite.png
 tags: party_affairs
 
 = Fundraising
