@@ -21,10 +21,10 @@ on-arrival: {!
 Q.started = 1;
 // time elapsed (in months)
 Q.time = 1;
-Q.year = 2021;
-Q.month = 4;
-// how many actions have been taken this month?
-Q.month_actions = 0;
+Q.hour = 8;
+Q.day = 1;
+// how many actions have been taken this hour?
+Q.hour_actions = 0;
 
 // 0 = normal difficulty, 1 = hard mode, 2 = hard mode no saves
 Q.difficulty = 0;
@@ -36,9 +36,11 @@ Q.old_demographics = 0;
 Q.use_decimals = 0;
 
 // party resources
-Q.resources = 2;
-// party dues
-Q.dues = 2;
+Q.wealth = 2;
+// intellect
+Q.intellect = 3;
+// energy
+Q.energy = 2;
 
 // the state of the party
 // overall dissent reduces every increase in party support.
