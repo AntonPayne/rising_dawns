@@ -593,14 +593,17 @@ on-arrival: name = "Ilaria"; gender = "daughter"; gender_capital = "Daughter"
 
 Adulthood for Ilaria meant rushing to get married. However, this woman wasn't ready to submit to societal norms. She grew up learning about the stories of great priestesses, which perhaps is why she aspired to be one.
 
-- @1928_main: This is the story of how she died...
+- @sob-story: This is the story of how she died...
 
 @aerdon
 on-arrival: name = "Aerdon"; gender = "son"; gender_capital = "Son"
 
 Adulthood for Aerdon meant rushing to get married. However, this man wasn't ready to submit to societal norms. He grew up learning about the stories of great warriors, which perhaps is why he aspired to be one.
 
-- @1928_main: This is the story of how he died...
+- @sob_story: This is the story of how he died...
+
+@sob_story
+go-to: 1928_main
 
 @1928_main
 audio: shuffle music/1928_1930/FruhlingsliedMendelssohn.mp3 music/1928_1930/AUF_HOHEN_BERGEN_noise_reduced.mp3 music/1928_1930/MarekWeber.mp3 music/1928_1930/BAUERNKAPELLE.mp3 music/1928_1933/DERLINDENBAUM_normalized.mp3 music/1928_1933/ZurSonne_zurFreiheit.mp3 music/1928_1933/arbeiter_marseille.mp3 music/1928_1933/Wann_wir_schreiten_Seit_an_Seit.mp3 music/1930_1933/Internationale-de_normalized.ogg music/1928_1930/LiedDerPompadour.mp3
