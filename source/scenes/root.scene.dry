@@ -595,6 +595,9 @@ Adulthood for Ilaria meant rushing to get married. However, this woman wasn't re
 
 - @sob-story: This is the story of how she died...
 
+@sob_story
+go-to: 1928_main
+
 @aerdon
 on-arrival: name = "Aerdon"; gender = "son"; gender_capital = "Son"
 
